@@ -1,0 +1,2 @@
+# start_stop_ec2_queue_from_kintone
+kintoneで設定したスケジュールにあわせてlambda(python)からSQSへメッセージを送る
